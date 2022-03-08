@@ -1,0 +1,29 @@
+img{
+    width: 500px;
+}
+body{background: black;}
+div{
+    background: white;
+    width: 500px;
+}
+.text{
+    margin-left: 8px;
+    margin-bottom: 16px;
+}
+.fa-html5{
+    font-size: 1.9rem;
+}
+
+.header{
+    display: flex;
+    width: 90%;
+}
+.container{
+    margin: 0 auto;
+}
+.fa-bookmark-o{
+    float: right;
+}
+.fa-ellipsis-v{
+    margin-right: -38px;
+}
