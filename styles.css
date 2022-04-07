@@ -1,7 +1,7 @@
 img{
     width: 500px;
 }
-body{background: black;}
+body{background: grey;}
 div{
     background: white;
     width: 500px;
@@ -19,13 +19,18 @@ div{
 .header{
     display: flex;
     width: 90%;
+    margin-left: 8px;
 }
 .container{
     margin: 0 auto;
+    margin-top: 10%;
 }
 .fa-bookmark-o{
     float: right;
+    margin-right: 5px;
 }
 .fa-ellipsis-v{
     margin-right: -38px;
+    padding-left: 50%;
+    margin-top: 9px;
 }
